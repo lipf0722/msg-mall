@@ -13,6 +13,6 @@ public class ReturnMsgCode {
     public static final String errMsg="操作失败,请联系感知!";
 
     public static final Integer illegalCode=2;
-    public static final String illegalMsg="请检查参数!";
+    public static final String illegalMsg="请检查参数!!!";
 
 }
